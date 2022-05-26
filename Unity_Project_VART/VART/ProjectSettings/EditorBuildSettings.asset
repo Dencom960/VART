@@ -4,5 +4,35 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Auction.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Paint1.unity
+    guid: 13de53a3befd9bd438e0a33baf81e5bf
+  - enabled: 1
+    path: Assets/Scenes/Paint2.unity
+    guid: 67b13f3a9ddfb6848a1dfc5ac4a682df
+  - enabled: 1
+    path: Assets/Scenes/Paint3.unity
+    guid: 7dc5960af5ad6f142976ecce337c8c36
+  - enabled: 1
+    path: Assets/Scenes/Paint4.unity
+    guid: 3be25f5765a310342a4fe091543be0a6
+  - enabled: 1
+    path: Assets/Scenes/Paint5.unity
+    guid: fdc3ec42f1205954e8e237504cd59675
+  - enabled: 1
+    path: Assets/Scenes/Paint6.unity
+    guid: f807015543ae84242bd8a59a52540be8
+  - enabled: 1
+    path: Assets/Scenes/Paint7.unity
+    guid: 44d315d37a0278f4ea1681c95b678c9f
+  - enabled: 1
+    path: Assets/Scenes/Paint8.unity
+    guid: 294f047c9a2d11d48aa02d92cdf297c6
+  - enabled: 1
+    path: Assets/Scenes/Paint9.unity
+    guid: ae31ff4141c551b4cb182d94d1a73349
   m_configObjects: {}
