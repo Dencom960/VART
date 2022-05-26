@@ -6,14 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class auction_manager_scence_key : MonoBehaviour
 {
-    int current_room; // текущая комната
-    void Awake()
-    {
-        current_room = db_room.room;
-        Debug.Log(current_room); // просто дебаг, проверка текущей комнаты
-    }
-
-
 // обрабатывает нажатие по клавиатуре
     void OnGUI()
     {
