@@ -7,35 +7,32 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Auction.unity
-    guid: 6b89edaef3400d14ba6d589e14dabdd5
-  - enabled: 1
-    path: Assets/Scenes/1_room.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/2_room.unity
-    guid: e0f33e719a327904d8d1c08b48ea7479
+    path: Assets/Scenes/Paint1.unity
+    guid: 13de53a3befd9bd438e0a33baf81e5bf
   - enabled: 1
-    path: Assets/Scenes/3_room.unity
-    guid: c6265b547f317eb468d262d120e0f741
+    path: Assets/Scenes/Paint2.unity
+    guid: 67b13f3a9ddfb6848a1dfc5ac4a682df
   - enabled: 1
-    path: Assets/Scenes/4_room.unity
-    guid: 517f3613879889040b9cab2e3cdbf9dc
+    path: Assets/Scenes/Paint3.unity
+    guid: 7dc5960af5ad6f142976ecce337c8c36
   - enabled: 1
-    path: Assets/Scenes/5_room.unity
-    guid: 4e24c937c355aad41bcad99488652706
+    path: Assets/Scenes/Paint4.unity
+    guid: 3be25f5765a310342a4fe091543be0a6
   - enabled: 1
-    path: Assets/Scenes/6_room.unity
-    guid: edfed906f74b81143bb73354c73c6eda
+    path: Assets/Scenes/Paint5.unity
+    guid: fdc3ec42f1205954e8e237504cd59675
   - enabled: 1
-    path: Assets/Scenes/7_room.unity
-    guid: 1d2862015823d114b8d54967b52acf4e
+    path: Assets/Scenes/Paint6.unity
+    guid: f807015543ae84242bd8a59a52540be8
   - enabled: 1
-    path: Assets/Scenes/8_room.unity
-    guid: aee48aba2ee46424488a7ea3a3dea435
+    path: Assets/Scenes/Paint7.unity
+    guid: 44d315d37a0278f4ea1681c95b678c9f
   - enabled: 1
-    path: Assets/Scenes/9_room.unity
-    guid: f63bc3ed5ed555040b4ef634dff5bd1d
-  m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1295f34c3e15f8347830fecd93106c3a, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b6b7c17d3374be943b2d4b9403435797, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: cd67804a4150efb4c9370f6a2080f49a, type: 2}
+    path: Assets/Scenes/Paint8.unity
+    guid: 294f047c9a2d11d48aa02d92cdf297c6
+  - enabled: 1
+    path: Assets/Scenes/Paint9.unity
+    guid: ae31ff4141c551b4cb182d94d1a73349
+  m_configObjects: {}
