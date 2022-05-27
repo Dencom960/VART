@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
+
 public class room_manager_scence_key : MonoBehaviour
 {
+
     IEnumerator Start()
     {
         db_room.room = SceneManager.GetActiveScene().buildIndex; // сохранение комнаты  в db_room
