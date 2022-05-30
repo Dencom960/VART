@@ -36,4 +36,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Paint9.unity
     guid: ae31ff4141c551b4cb182d94d1a73349
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9b20c5b56f7b39a44b2ce9b85b76c4df, type: 2}
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: f631b6f4331ece248b796c377171859b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: dbc031fefaeece741be7f0e2d02a4c17, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 50655ba7fa2e75d4eb64bfffa6745b7e, type: 2}

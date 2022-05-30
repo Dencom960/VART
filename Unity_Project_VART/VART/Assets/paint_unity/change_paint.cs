@@ -19,12 +19,12 @@ public class change_paint : MonoBehaviour
 
             if (current_side_paint == "left")
             {
-                Instantiate(objects[current_room - 1], new Vector3(-2.7f, 3.5f, 7.8f), Quaternion.identity);
+                Instantiate(objects[current_room - 1], new Vector3(-2.18400002f, 2.48399997f, 5.73899984f), Quaternion.identity);
                 db_room.side_paint = "right";
             }
             else if (current_side_paint == "right")
             {
-                Instantiate(objects[current_room - 1], new Vector3(2.7f, 3.5f, 7.8f), Quaternion.identity);
+                Instantiate(objects[current_room - 1], new Vector3(2.18400002f, 2.48399997f, 5.73899984f), Quaternion.identity);
                 db_room.side_paint = "left";
             }
 
