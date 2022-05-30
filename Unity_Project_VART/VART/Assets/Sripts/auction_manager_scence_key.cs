@@ -18,6 +18,5 @@ public class auction_manager_scence_key : MonoBehaviour
         if (Event.current.Equals(Event.KeyboardEvent(KeyCode.F6.ToString()))) { SceneManager.LoadScene(6); } 
         if (Event.current.Equals(Event.KeyboardEvent(KeyCode.F7.ToString()))) { SceneManager.LoadScene(7); }
         if (Event.current.Equals(Event.KeyboardEvent(KeyCode.F8.ToString()))) { SceneManager.LoadScene(8); }
-        if (Event.current.Equals(Event.KeyboardEvent(KeyCode.F9.ToString()))) { SceneManager.LoadScene(9); }
     }
 }
